@@ -11,3 +11,5 @@ This activity contains the barcode scanner. It scans the gerated barcode and sen
 
 2. Another activity to display-
 This activity displays the name, branch, roll number, id and the cost of the student which it recieves in JSON object from the server.
+
+![alt text](https://github.com/shinde-shantanu/Etamax_scanner_app/blob/master/Activity2.PNG)
